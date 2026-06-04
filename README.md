@@ -49,14 +49,6 @@ Getting into DevOps & Infrastructure — on-premise environments, cloud, and aut
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=matiassy&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 📈 Activity
 
 <p align="center">
