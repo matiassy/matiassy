@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Matias%20Yaccuzzi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20%7C%20Cloud%20%7C%20Infrastructure&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,50:C0392B,100:7B0000&height=180&section=header&text=Matias%20Yaccuzzi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20%7C%20Cloud%20%7C%20Infrastructure&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -52,12 +52,7 @@ Getting into DevOps & Infrastructure — on-premise environments, cloud, and aut
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiassy&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiassy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matiassy&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=matiassy&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -77,5 +72,5 @@ Getting into DevOps & Infrastructure — on-premise environments, cloud, and aut
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,50:C0392B,100:7B0000&height=100&section=footer" width="100%"/>
 </div>
